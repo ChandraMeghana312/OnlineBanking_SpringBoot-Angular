@@ -11,9 +11,6 @@ There are two roles user and admin.
 ## Thing to run the application
 
 __Clone the repository__
-```
-git clone https://github.com/hendisantika/Online-banking-angular-springboot-mysql 
-```
 
 __Go the folder__
 ```
